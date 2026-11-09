@@ -3,3 +3,8 @@ Clipload.app/
 *.iconset/
 *.icns
 .DS_Store
+venv/
+clipload.ico
+dist/
+*.spec
+__pycache__/
